@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Created by
 
-Joanna Grochal
-Gabriela Łupak
-Piotr Korzeń
+Joanna Grochal<br/>
+Gabriela Łupak<br/>
+Piotr Korzeń<br/>
 Kamil Luśnia
 
 ```markdown
