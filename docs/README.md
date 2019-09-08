@@ -2,13 +2,16 @@
 
 ## BAI
 
-BAI is an application that suggests You which google photo to choose for a wallpaper depending on where you are at the moment.
+BAI is an application that suggests You which Google photo to choose for a wallpaper depending on where you are at the moment.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Created by
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Joanna Grochal
+Gabriela Łupak
+Piotr Korzeń
+Kamil Luśnia
 
 ```markdown
 Syntax highlighted code block
