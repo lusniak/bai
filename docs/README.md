@@ -1,4 +1,4 @@
-![Image](https://github.com/lusniak/bai/blob/master/docs/bai_page1.png?raw=true)
+![Image](https://github.com/lusniak/bai/blob/master/docs/bai_page2.png?raw=true)
 
 ## Welcome to GitHub Pages
 
