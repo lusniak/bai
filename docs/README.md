@@ -1,3 +1,5 @@
+![Image](https://github.com/lusniak/bai/blob/master/docs/bai1.PNG?raw=true)
+![Image](https://github.com/lusniak/bai/blob/master/docs/bai1.PNG?raw=true)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/programming-liftoff/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
