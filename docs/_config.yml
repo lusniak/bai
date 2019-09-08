@@ -1,5 +1,5 @@
 title: BAI
-description: BAI is an application that suggests You which google photo to choose for a wallpaper depending on where you are.
+description: BAI is an application that suggests You which google photo to choose for a wallpaper depending on where you are at the moment.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
