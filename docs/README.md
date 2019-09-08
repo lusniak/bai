@@ -32,7 +32,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <a href="https://trello.com/baiprojekt1"><img src="mockplussquare.png" style="width:82px; height:82px" title="Mockplus" alt="Mockplus"></a></pre>
 <a href="https://trello.com/baiprojekt1"><img src="githubsquare.png" style="width:82px; height:82px" title="Github" alt="Github"></a>
 
-
+<div class="row">
+  <div class="column">
+    <img src="trellosquare.png" alt="Trello" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="mockplussquare.png" alt="Mockplus" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="githubsquare.png" alt="Github" style="width:100%">
+  </div>
+</div>
 
 ### Created by
 
