@@ -28,8 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/programming-liftoff/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Go to:
 
-<a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
-<a href="https://trello.com/baiprojekt1"><img src="trelloquare.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>
+<a href="https://trello.com/baiprojekt1"><img src="trellosquare.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>
 <a href="https://trello.com/baiprojekt1"><img src="mockplussquare.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>
 <a href="https://trello.com/baiprojekt1"><img src="githubsquare.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>
 
