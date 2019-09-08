@@ -29,7 +29,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Go to:
 
 <a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
-
+<a href="https://trello.com/baiprojekt1"><img src="trello-512.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>
 
 ### Created by
 
