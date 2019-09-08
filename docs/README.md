@@ -1,8 +1,8 @@
 ![Image](https://github.com/lusniak/bai/blob/master/docs/bai_page2.png?raw=true)
 
-## Welcome to GitHub Pages
+## BAI
 
-You can use the [editor on GitHub](https://github.com/programming-liftoff/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BAI is an application that suggests You which google photo to choose for a wallpaper depending on where you are at the moment.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
