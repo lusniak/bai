@@ -6,7 +6,7 @@ BAI is an application that suggests You which Google photo to choose for a wallp
 
 ```markdown
 Syntax highlighted code block
-
+<a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
 # Header 1
 ## Header 2
 ### Header 3
