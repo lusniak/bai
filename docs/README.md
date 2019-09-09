@@ -29,8 +29,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Go to:
 
 <a href="https://trello.com/baiprojekt1"><img src="trellosquare.png" style="width:82px; height:82px" title="Trello" alt="Trello"></a>&nbsp;
-<a href="https://trello.com/baiprojekt1"><img src="mockplussquare.png" style="width:82px; height:82px" title="Mockplus" alt="Mockplus"></a>&nbsp;
-<a href="https://trello.com/baiprojekt1"><img src="githubsquare.png" style="width:82px; height:82px" title="Github" alt="Github"></a>
+<a href="https://github.com/jgrochal/bai-project/tree/master/prototype"><img src="mockplussquare.png" style="width:82px; height:82px" title="Mockplus" alt="Mockplus"></a>&nbsp;
+<a href="https://github.com/jgrochal/bai-project"><img src="githubsquare.png" style="width:82px; height:82px" title="Github" alt="Github"></a>
 
 ### Created by
 
