@@ -2,7 +2,7 @@
 
 ## BAI
 
-BAI is an application that suggests You which Google photo to choose for a wallpaper depending on where you are at the moment.
+BAI is an application that suggests You which Google photo to choose for a wallpaper depending on Your location at the moment.
 
 ```markdown
 Syntax highlighted code block
