@@ -5,8 +5,8 @@
 BAI is an application that suggests You which Google photo to choose for a wallpaper depending on Your location at the moment.
 
 <img src="uiflow4.PNG" alt="UI flow">
-<img src="uiflow2.PNG" alt="UI flow" style="width:1000px;height:800px;">
-<img src="uiflow3.PNG" alt="UI flow" style="width:1000px;height:800px;">
+<img src="uiflow5.PNG" alt="UI flow" >
+<img src="uiflow6.PNG" alt="UI flow" >
 
 
 
